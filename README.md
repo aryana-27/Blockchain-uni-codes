@@ -10,5 +10,5 @@ By working through these implementations, you will:
 - Learn how to create a simple blockchain in Python
 - Implement transaction verification and consensus mechanisms
 
-🚀 **Happy Coding & Exploring Blockchain!** 🚀
+ **#Happy Coding & Exploring Blockchain!** 
 
