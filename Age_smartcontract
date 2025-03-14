@@ -1,0 +1,17 @@
+// SPDX-License-Identifier: MIT
+
+pragma solidity >= 0.8.7;
+
+contract Aryana{
+    uint age;
+    function setAge(uint x) public{
+        age = x;
+    }
+    function getAge() public view returns (uint) {
+        return age;
+
+    }
+}
+
+
+# source - https://www.youtube.com/watch?v=eEQ41gD0iC4
